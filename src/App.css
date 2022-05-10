@@ -81,13 +81,13 @@
 
 
 .correct {
-  background: #4ade80 !important;
+  background: green !important;
 }
 
 .present {
-  background: #fbbf24 !important;
+  background: yellow !important;
 }
 
 .not-found {
-  background: #cccccc !important;
+  background: grey !important;
 }
