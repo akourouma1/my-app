@@ -10,12 +10,6 @@
   margin: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-
 .wrapper {
   display: flex;
   flex-direction: column;
@@ -58,6 +52,6 @@
   background: yellow !important;
 }
 
-.not-found {
+.incorrect {
   background: grey !important;
 }
