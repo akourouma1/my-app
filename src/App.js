@@ -11,7 +11,7 @@ function getRandomWord() {
   return words[Math.floor(Math.random() * words.length)];
 }
 
-
+// the keys on the keyboard
 const keyboardLayout = {
   default: [
     "Q W E R T Y U I O P",
@@ -20,7 +20,7 @@ const keyboardLayout = {
   ],
 };
 
-// will be used for the name of buttons
+
 const keyboardDisplay = {
   
   "{bksp}": "Delete",
@@ -36,10 +36,12 @@ function getDefaultButtonTheme() {
     },
     {
       class: "present",
+      
       buttons: "",
     },
     {
       class: "not-found",
+      
       buttons: "",
     },
   ];
