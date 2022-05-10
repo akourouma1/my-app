@@ -20,7 +20,7 @@ const keyboardLayout = {
   ],
 };
 
-// will be used for the name of buttons
+
 const keyboardDisplay = {
   
   "{bksp}": "Delete",
