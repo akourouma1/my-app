@@ -35,5 +35,5 @@ export default [
   "NANNY",
   "NIECE",
   "WOOZY",
-
+  "ABOUT"
 ];
